@@ -7,7 +7,7 @@ export class UserService {
       {
         id: 1,
         name: 'Arjun Khetia',
-        email: 'john.doe@example.com',
+        email: 'arjunkhetia@gmail.com',
       },
     ];
   }
